@@ -2,7 +2,7 @@ import fitz  # install using: pip install fitz PyMuPDF
 
 with fitz.open("2023_Programming for Absolute Beginners.pdf") as doc:
     text = ""
-    for page in doc:
+    for page in doc:c
         text += page.get_text()
 
 # 將文字存儲到文件中
