@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-22T09:29:06+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w10-project.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-04-22T09:29:06+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./wcm-w10-project.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T06:36:22+08:00</updated><entry><title>WCM 分組專案</title><link href="./wcm-w10-project.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-04-22T09:29:06+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./wcm-w10-project.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 
 
@@ -125,7 +125,7 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="五專"></category><category term="Video"></category><category term="w6"></category></entry><entry><title>WCM五專第五周課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-03-18T09:14:02+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與 Chatgpt 的對話,整理與精密機械科有關的問題詢答紀錄&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="五專"></category><category term="Video"></category><category term="w6"></category></entry><entry><title>WCM五專第五周課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-06-03T08:39:04+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-18:./wcm-5j-w5.html</id><summary type="html">&lt;p&gt;第五周將利用與 Chatgpt 的對話,整理與精密機械科有關的問題詢答紀錄&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第五周將利用與 Chatgpt 的對話,整理與精密機械科有關的問題詢答紀錄&lt;/p&gt;
 
 
@@ -157,7 +157,61 @@
 &lt;p&gt;自動評估與反饋：AI 技術可以自動化評估學生的學習成果，包括測試、作業和項目。這不僅可以節省教師的時間和精力，還可以提供即時的反饋，幫助學生了解自己的學習狀況，及時調整學習策略。&lt;/p&gt;
 &lt;p&gt;智能教學輔助工具：AI 技術可以開發智能教學輔助工具，例如智能教學助手、虛擬教師等，提供即時的解答和支持，幫助學生解決問題、理解概念，提高學習效率。&lt;/p&gt;
 &lt;p&gt;數據驅動決策：學校可以利用 AI 技術對大量教育數據進行分析，從中發現學生的學習模式、教學效果和學校運營情況，並且根據這些數據做出更明智的決策，改進教學和管理策略。&lt;/p&gt;
-&lt;p&gt;增強現實和虛擬實境：AI 技術可以應用於增強現實（AR）和虛擬實境（VR）教育中，創造更豐富、更生動的學習環境。透過 AR 和 VR 技術，學生可以進行身臨其境的虛擬實驗、參觀遠程地點、體驗歷史事件等。&lt;/p&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-04T08:37:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;增強現實和虛擬實境：AI 技術可以應用於增強現實（AR）和虛擬實境（VR）教育中，創造更豐富、更生動的學習環境。透過 AR 和 VR 技術，學生可以進行身臨其境的虛擬實驗、參觀遠程地點、體驗歷史事件等。
+ 
+&lt;ul&gt;
+     &lt;li&gt;&lt;a href="https://github.com/Chen-Yi-jing/wcm2024" target="_blank"&gt;51233101&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233102/wcm2024" target="_blank"&gt;51233102&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/Lin-Si-yu/wcm2024" target="_blank"&gt;51233103&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/kylechan092804/wcm2024" target="_blank"&gt;51233104&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233105/wcm2024" target="_blank"&gt;51233105&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233106/wcm2024" target="_blank"&gt;51233106&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233107/wcm2024" target="_blank"&gt;51233107&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233108/wcm2024" target="_blank"&gt;51233108&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233109/wcm2024" target="_blank"&gt;51233109&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/ssssuuuuyyyyy/wcm2024" target="_blank"&gt;51233110&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233111/wcm2024" target="_blank"&gt;51233111&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233112/wcm2024" target="_blank"&gt;51233112&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233113/wcm2024" target="_blank"&gt;51233113&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233114/wcm2024" target="_blank"&gt;51233114&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233115/wcm2024" target="_blank"&gt;51233115&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233116/wcm2024" target="_blank"&gt;51233116&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233117/wcm2024" target="_blank"&gt;51233117&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233118/wcm2024" target="_blank"&gt;51233118&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/boyi1217/wcm2024" target="_blank"&gt;51233119&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/Yaosunset/wcm2024" target="_blank"&gt;51233120&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233121/wcm2024" target="_blank"&gt;51233121&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/zsw08/wcm2024" target="_blank"&gt;51233122&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233123/wcm2024" target="_blank"&gt;51233123&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233124/wcm2024" target="_blank"&gt;51233124&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/gyjbujy/51233125/wcm2024" target="_blank"&gt;51233125&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233126/wcm2024" target="_blank"&gt;51233126&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/kaixiang1220/wcm2024" target="_blank"&gt;51233127&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233128/wcm2024" target="_blank"&gt;51233128&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233129/wcm2024" target="_blank"&gt;51233129&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233130/wcm2024" target="_blank"&gt;51233130&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233131/wcm2024" target="_blank"&gt;51233131&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233132/wcm2024" target="_blank"&gt;51233132&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233133/wcm2024" target="_blank"&gt;51233133&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233134/wcm2024" target="_blank"&gt;51233134&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233135/wcm2024" target="_blank"&gt;51233135&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233136/wcm2024" target="_blank"&gt;51233136&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233137/wcm2024" target="_blank"&gt;51233137&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233138/wcm2024" target="_blank"&gt;51233138&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233139/wcm2024" target="_blank"&gt;51233139&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233140/wcm2024" target="_blank"&gt;51233140&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233141/wcm2024" target="_blank"&gt;51233141&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233142/wcm2024" target="_blank"&gt;51233142&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233143/wcm2024" target="_blank"&gt;51233143&lt;/a&gt;&lt;/li&gt;
+     &lt;li&gt;&lt;a href="https://github.com/51233144/wcm2024" target="_blank"&gt;51233144&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FNJG6MsKO0k"&gt;他們說我是沒有用的年經人&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=URUIcYDq3_I"&gt;陀飛輪&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=qu_FSptjRic"&gt;海闊天空&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=AfPUiV-jamA"&gt;單車&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Sm_DVsixxsk"&gt;K哥之王&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=7qeShSmmsNg"&gt;富士山下&lt;/a&gt;&lt;/p&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-04T08:37:39+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -421,4 +475,20 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry></feed>
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>期末</title><link href="./2024-wcm_w10.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:32:57+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w10課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry><entry><title>期末</title><link href="./2024-wcm_w11.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:33:21+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w11課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry><entry><title>期末</title><link href="./2024-wcm_w12.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:33:35+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w12.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w12課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry><entry><title>期末</title><link href="./2024-wcm_w13.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:36:22+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w13.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w13課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry><entry><title>期末</title><link href="./2024-wcm_w14.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:36:17+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w14.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w14課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry><entry><title>期末</title><link href="./2024-wcm_w7.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:31:22+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w7課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry><entry><title>期末</title><link href="./2024-wcm_w8.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:35:51+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w8課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry><entry><title>期末</title><link href="./2024-wcm_w9.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-06-17T06:32:35+08:00</updated><author><name>51233115</name></author><id>tag:None,2024-02-18:./2024-wcm_w9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專w9課程內容&lt;/h1&gt;</content><category term="all"></category><category term="五專"></category></entry></feed>
